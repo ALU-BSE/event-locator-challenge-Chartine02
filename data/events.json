@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Jazz Night at City Hall",
+    "date": "2025-07-10",
+    "location": "City Hall Auditorium",
+    "category": "Music",
+    "description": "An evening of smooth jazz with local artists performing classic and contemporary pieces. Perfect for a romantic date night or relaxing evening with friends."
+  },
+  {
+    "id": 2,
+    "name": "Tech Expo 2025",
+    "date": "2025-07-12",
+    "location": "Convention Center",
+    "category": "Tech",
+    "description": "Showcasing the latest in technology and innovation. Meet startups, see demos, and network with industry professionals. Free admission for students."
+  },
+  {
+    "id": 3,
+    "name": "Art in the Park Festival",
+    "date": "2025-07-15",
+    "location": "Central Park",
+    "category": "Art",
+    "description": "Outdoor art exhibition featuring local painters, sculptors, and photographers. Live painting demonstrations and art workshops for all ages."
+  },
+  {
+    "id": 4,
+    "name": "City Marathon 2025",
+    "date": "2025-07-20",
+    "location": "Downtown Streets",
+    "category": "Sports",
+    "description": "Annual marathon event open to all ages and skill levels. Choose from 5K, 10K, or full marathon. Proceeds benefit local charities."
+  },
+  {
+    "id": 5,
+    "name": "Rock Concert Under the Stars",
+    "date": "2025-07-25",
+    "location": "Riverside Amphitheater",
+    "category": "Music",
+    "description": "An electrifying rock concert featuring top local bands. Bring your own blanket and enjoy music under the open sky."
+  },
+  {
+    "id": 6,
+    "name": "Basketball Tournament",
+    "date": "2025-07-28",
+    "location": "Community Sports Center",
+    "category": "Sports",
+    "description": "3-on-3 basketball tournament for all skill levels. Prizes for winners and food trucks on site. Registration required."
+  },
+  {
+    "id": 7,
+    "name": "Digital Art Workshop",
+    "date": "2025-08-02",
+    "location": "Creative Hub",
+    "category": "Art",
+    "description": "Learn digital art techniques using tablets and software. Suitable for beginners and intermediate artists. Equipment provided."
+  },
+  {
+    "id": 8,
+    "name": "Coding Bootcamp Demo Day",
+    "date": "2025-08-05",
+    "location": "Tech Innovation Center",
+    "category": "Tech",
+    "description": "Graduating students showcase their final projects. Great opportunity to see emerging talent and network with tech companies."
+  }
+] 
